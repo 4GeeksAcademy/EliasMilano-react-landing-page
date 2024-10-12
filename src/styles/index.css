@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background-color: white;
+}
+
+a {
+    color: white !important;
+}
